@@ -11,11 +11,10 @@ This project provides a powerful extension for the Gemini CLI, offering advanced
 
 ## 🚀 Installation
 
-_Instructions on how to install the Gemini CLI Git Extension will go here. This typically involves using the Gemini CLI's own extension management command._
+To install the Gemini CLI Git Extension, use the following command:
 
 ```bash
-# Example: (Please replace with actual installation command)
-gemini install gemini-cli-git
+gemini extensions install https://github.com/Snnas04/gemini-cli-git
 ```
 
 ## 💡 Usage
