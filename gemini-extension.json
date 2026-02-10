@@ -1,4 +1,5 @@
 {
   "name": "gemini-cli-git",
-  "version": "0.1.0"
+  "description": "A Gemini extension that provides Git workflow automation commands, including commit, push, and pull request management, to streamline development processes.",
+  "version": "0.1.1"
 }
