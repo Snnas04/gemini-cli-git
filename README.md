@@ -54,4 +54,4 @@ Synchronizes your local changes with the remote repository. This command ensures
 
 ## 🤝 Contributing
 
-We welcome contributions! Please refer to our contributing guidelines (if available) for more information.
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get started, our commit standards, and the pull request process.
